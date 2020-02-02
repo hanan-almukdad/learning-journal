@@ -3,7 +3,7 @@
 ##### if you want to mak the text bold jast make sure that you are  botting ** without space between it and the word also close it  by ** without space.
 ##### for exampl:
 **full**
- ##### if you want to bullet points you can add number with dote for Ordered with space or ad * with space for Unordered.
+##### if you want to bullet points you can add number with dote for Ordered with space or ad * with space for Unordered.
 ##### for exampl:
 1. one
 2. two
