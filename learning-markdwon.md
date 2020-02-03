@@ -5,8 +5,10 @@
 **full**
 ##### if you want to bullet points you can add number with dote for Ordered with space or ad * with space for Unordered.
 ##### for exampl:
+orderd:
 1. one
 2. two
+unorderd 
 * main
 * main
 ##### if you want to add an Images just add ![the name] (link ):
