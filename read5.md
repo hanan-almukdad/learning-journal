@@ -22,6 +22,6 @@ p.two {
 background-color: rgb(0,0,0);
 background-color: rgba(0,0,0,0.5);}
 ## hex example:
-background-color: #ee3e80;
+background-color: #ee3e80;s
 ## color name:
 background-color: DarkCyan;
