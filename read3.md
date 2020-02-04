@@ -5,11 +5,11 @@
 
 ### we use coding attribut such as:
 
-*mkdir to creat directory
-*ls to get file listed
-*cd to enter the file
-*cd.. to exit the file
-*pwd to see where are you
+* mkdir to creat directory
+* ls to get file listed
+* cd to enter the file
+* cd.. to exit the file
+* pwd to see where are you
 
 ### using git to link the global gitHub repo with local which is in the computer we have to Add, Commit and push (ACP) if we want to keep our work safe and make sure we could reache thim from anywhere and protect it. to push repo to local there is steps to follw :
  1. copy the clone URL
