@@ -2,15 +2,13 @@
 
 
 ### I am a syrian student. i finished my high school in 2019 I am  intrested of computer and I am ready to show every one that I am a good student.
- number   | my broject |
---------- |----------|
-first | [learning-journal](https://hanan-almukdad.github.io/learning-journal/)|
-----------|----------|
-second | [learning-markdwon](https://hanan-almukdad.github.io/learning-journal/learning-markdwon)|
-----------|----------|
- third | [text-editing](https://hanan-almukdad.github.io/learning-journal/text-editing)|
-----------|----------|
-=======
+ 
+ **[learning-journal](https://hanan-almukdad.github.io/learning-journal/)**
+
+ **[learning-markdwon](https://hanan-almukdad.github.io/learning-journal/learning-markdwon)** 
+
+ **[text-editing](https://hanan-almukdad.github.io/learning-journal/text-editing)**
+
 
 
 
