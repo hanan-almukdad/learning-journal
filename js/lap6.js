@@ -1,18 +1,39 @@
-
-var person = prompt("pleas enter your email");
-
+function fun () { 
+    var person = prompt("pleas enter your email");
+var result;
 
 if (person != null) {
-  document.write("hello welcom to our university.");
-  
-}
-var person = prompt("are you studing here? ");
-if (person !=null) {  
-     document.write("so ");
+result='hello welcom to our university.'
 
 }
-var person = prompt("pleas enter your qustion?");
-if (person != null) {
-    document.write("thank you we will answer your questoin as soon as we can.");
-    
+return result;
 }
+ 
+ document.write('<h3>'+ fun() +'</h3>');
+ function good (){
+     var person = prompt("are you studing here? ");
+     var result;
+
+if (person !=null) { 
+  result='so '  
+  return result;
+ }
+
+}
+
+ document.write('<h3>' +good()+ '<h3>' );
+ function add(){ 
+     var person = prompt("pleas enter your qustion?");
+     var result;
+if (person != null) {
+    result='thank you we will answer your questoin as soon as we can.'
+}
+ return result;
+
+}
+ document.write('<h3>' +add()+'<h3>');
+ 
+ 
+
+ 
+
