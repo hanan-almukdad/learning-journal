@@ -11,12 +11,12 @@ return result;
  
  document.write('<h3>'+ fun() +'</h3>');
  function good (){
-     var person = prompt("are you studing here? ");
+     var person = prompt("are you studing here?(yes/no)");
      while(person.toLocaleLowerCase() !=='yes' && person !=='no'){
-     var person = prompt("are you studing here? ");
+     var person = prompt("are you studing here?(yes/no)");
     
      }
-     var okay =prompt("are you studing here?");
+     var okay =prompt("are you studing here?(yes/no)");
      console.log(okay);
      var result="";
      for(var i=0; i<okay; i++)
