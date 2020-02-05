@@ -23,7 +23,7 @@ return result;
      if(person === 'yes')
      { result = result + '<img src="img/youjourney-small.png">'; 
     }   else if (person === 'no')
-    { result = result + '<img src="img/maxerdefault.jpg">';
+    { result = result + '<img src="img/maxresdefault.jpg">';
     }
 if (person !=null) { 
   result='so '  
